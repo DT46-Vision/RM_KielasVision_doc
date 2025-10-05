@@ -6,7 +6,7 @@
 <br>我的爱如潮水，you 然，我已无法再与它 apart
 
 ## **[技术文档-本地](梓喵-KielasVision/梓喵-DT46-RM-vision.md)**
-梓喵技术文档
+
 ### DT-46-KielasVison-Armor_type_definition
 | 编号 | 含义             | 序号 |
 |------|------------------|------|
